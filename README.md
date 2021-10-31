@@ -26,7 +26,7 @@
 <h3>Short sweet headline with 🎇🎉</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/discord-bored-bot/main/images/screenshot.png" alt="discord-bored-bot Demo" style="width:100%">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/discord-bored-bot/main/images/screenshot.jpg" alt="discord-bored-bot Demo" style="width:100%">
   <br/>
   <figcaption>discord-bored-bot screenshot</figcaption>
 </figure>
@@ -58,6 +58,8 @@ cd discord-bored-bot
 ```
 
 ## Using discord-bored-bot
+
+https://discord.com/oauth2/authorize?client_id=904319736240803910&permissions=309237786624&scope=bot
 
 ```bash
 USAGE:
