@@ -26,7 +26,7 @@
 <h3>Bored? ask this bot for fun activities! 🎇🎉</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/discord-bored-bot/main/images/screenshot.jpg" alt="discord-bored-bot Demo" style="width:100%">
+  <img src= "images/screenshot.jpg" alt="discord-bored-bot Demo" style="width:100%">
   <br/>
   <figcaption>discord-bored-bot screenshot</figcaption>
 </figure>
